@@ -1,0 +1,301 @@
+[
+      {
+        "id": "01",
+        "name": "John Smith",
+            "image": "https://img.freepik.com/premium-photo/portrait-smiling-male-chef-standing-kitchen_23-2147863765.jpg?w=740",
+            "experience": "20 years",
+            "num_recipes": 100,
+            "bio": "John Smith is an experienced chef with over 20 years in the culinary industry. He is known for his creative dishes that combine different cuisines and flavors.",
+            "recipes": [
+              {
+                "name": "Spicy Grilled Shrimp",
+                "ingredients": [
+                  "1 pound large shrimp, peeled and deveined",
+                  "2 tablespoons olive oil",
+                  "1 tablespoon minced garlic",
+                  "1 tablespoon chopped fresh parsley",
+                  "1/4 teaspoon red pepper flakes",
+                  "Salt and black pepper to taste"
+                ],
+                "cooking_method": "1. Preheat grill to medium-high heat.\n2. In a bowl, combine shrimp, olive oil, garlic, parsley, red pepper flakes, salt, and black pepper.\n3. Thread shrimp onto skewers and grill for 2-3 minutes per side or until cooked through."
+              },
+              {
+                "name": "Chicken Marsala",
+                "ingredients": [
+                  "4 boneless, skinless chicken breasts",
+                  "1/2 cup all-purpose flour",
+                  "1 teaspoon salt",
+                  "1/2 teaspoon black pepper",
+                  "4 tablespoons unsalted butter",
+                  "4 tablespoons olive oil",
+                  "8 ounces sliced mushrooms",
+                  "1/2 cup Marsala wine",
+                  "1/2 cup chicken broth",
+                  "1/4 cup heavy cream",
+                  "Chopped fresh parsley for garnish"
+                ],
+                "cooking_method": "1. Pound chicken breasts to an even thickness.\n2. In a shallow dish, combine flour, salt, and pepper.\n3. Dredge chicken in flour mixture, shaking off excess.\n4. In a large skillet, heat butter and olive oil over medium heat.\n5. Add chicken and cook for 4-5 minutes per side or until browned and cooked through.\n6. Remove chicken from skillet and set aside.\n7. Add mushrooms to skillet and cook until browned.\n8. Pour in Marsala wine and chicken broth and bring to a simmer.\n9. Add heavy cream and stir to combine.\n10. Return chicken to skillet and cook for an additional 2-3 minutes or until sauce has thickened.\n11. Garnish with chopped parsley."
+              },
+              {
+                "name": "Pesto Pasta",
+                "ingredients": [
+                  "1 pound linguine",
+                  "1/2 cup pesto",
+                  "1/4 cup grated Parmesan cheese",
+                  "1/4 teaspoon black pepper"
+                ],
+                "cooking_method": "1. Cook linguine according to package directions.\n2. Drain linguine and reserve 1/2 cup of pasta water.\n3. Return linguine to pot and add pesto and Parmesan cheese.\n4. Toss to coat, adding reserved pasta water as needed to loosen the sauce.\n5. Season with black pepper and serve."
+              }
+            ]
+          },
+    
+          {
+            "id": "02",
+            "name": "Harrise Powl",
+            "image": "https://img.freepik.com/free-photo/mid-shot-chef-holding-plate-with-pasta-making-ok-sign_23-2148794087.jpg?w=740&t=st=1683210864~exp=1683211464~hmac=b099ab64396926888b39e6909fe15fc7f519c07882293094357cdba365876f21",
+            "experience": "6 years",
+            "num_recipes": 20,
+            "bio": "John Smith is an experienced chef with over 20 years in the culinary industry. He is known for his creative dishes that combine different cuisines and flavors.",
+            "recipes": [
+              {
+                "name": "Spicy Grilled Shrimp",
+                "ingredients": [
+                  "1 pound large shrimp, peeled and deveined",
+                  "2 tablespoons olive oil",
+                  "1 tablespoon minced garlic",
+                  "1 tablespoon chopped fresh parsley",
+                  "1/4 teaspoon red pepper flakes",
+                  "Salt and black pepper to taste"
+                ],
+                "cooking_method": "1. Preheat grill to medium-high heat.\n2. In a bowl, combine shrimp, olive oil, garlic, parsley, red pepper flakes, salt, and black pepper.\n3. Thread shrimp onto skewers and grill for 2-3 minutes per side or until cooked through."
+              },
+              {
+                "name": "Chicken Marsala",
+                "ingredients": [
+                  "4 boneless, skinless chicken breasts",
+                  "1/2 cup all-purpose flour",
+                  "1 teaspoon salt",
+                  "1/2 teaspoon black pepper",
+                  "4 tablespoons unsalted butter",
+                  "4 tablespoons olive oil",
+                  "8 ounces sliced mushrooms",
+                  "1/2 cup Marsala wine",
+                  "1/2 cup chicken broth",
+                  "1/4 cup heavy cream",
+                  "Chopped fresh parsley for garnish"
+                ],
+                "cooking_method": "1. Pound chicken breasts to an even thickness.\n2. In a shallow dish, combine flour, salt, and pepper.\n3. Dredge chicken in flour mixture, shaking off excess.\n4. In a large skillet, heat butter and olive oil over medium heat.\n5. Add chicken and cook for 4-5 minutes per side or until browned and cooked through.\n6. Remove chicken from skillet and set aside.\n7. Add mushrooms to skillet and cook until browned.\n8. Pour in Marsala wine and chicken broth and bring to a simmer.\n9. Add heavy cream and stir to combine.\n10. Return chicken to skillet and cook for an additional 2-3 minutes or until sauce has thickened.\n11. Garnish with chopped parsley."
+              },
+              {
+                "name": "Pesto Pasta",
+                "ingredients": [
+                  "1 pound linguine",
+                  "1/2 cup pesto",
+                  "1/4 cup grated Parmesan cheese",
+                  "1/4 teaspoon black pepper"
+                ],
+                "cooking_method": "1. Cook linguine according to package directions.\n2. Drain linguine and reserve 1/2 cup of pasta water.\n3. Return linguine to pot and add pesto and Parmesan cheese.\n4. Toss to coat, adding reserved pasta water as needed to loosen the sauce.\n5. Season with black pepper and serve."
+              }
+            ]
+          },
+    
+          {
+            "id": "03",
+            "name": "Backen Roje",
+            "image": "https://img.freepik.com/free-photo/portrait-positive-smiling-head-chef-standing-professional-restaurant-kitchen-while-looking-camera-confident-man-wearing-food-industry-white-uniform-while-preparing-delicious-meal_482257-40117.jpg?w=740&t=st=1683210824~exp=1683211424~hmac=06434f5fe141a6560611f809d7761e7d309b56212b6889638795fbaa4a3f47fd",
+            "experience": "20 years",
+            "num_recipes": 100,
+            "bio": "John Smith is an experienced chef with over 20 years in the culinary industry. He is known for his creative dishes that combine different cuisines and flavors.",
+            "recipes": [
+              {
+                "name": "Spicy Grilled Shrimp",
+                "ingredients": [
+                  "1 pound large shrimp, peeled and deveined",
+                  "2 tablespoons olive oil",
+                  "1 tablespoon minced garlic",
+                  "1 tablespoon chopped fresh parsley",
+                  "1/4 teaspoon red pepper flakes",
+                  "Salt and black pepper to taste"
+                ],
+                "cooking_method": "1. Preheat grill to medium-high heat.\n2. In a bowl, combine shrimp, olive oil, garlic, parsley, red pepper flakes, salt, and black pepper.\n3. Thread shrimp onto skewers and grill for 2-3 minutes per side or until cooked through."
+              },
+              {
+                "name": "Chicken Marsala",
+                "ingredients": [
+                  "4 boneless, skinless chicken breasts",
+                  "1/2 cup all-purpose flour",
+                  "1 teaspoon salt",
+                  "1/2 teaspoon black pepper",
+                  "4 tablespoons unsalted butter",
+                  "4 tablespoons olive oil",
+                  "8 ounces sliced mushrooms",
+                  "1/2 cup Marsala wine",
+                  "1/2 cup chicken broth",
+                  "1/4 cup heavy cream",
+                  "Chopped fresh parsley for garnish"
+                ],
+                "cooking_method": "1. Pound chicken breasts to an even thickness.\n2. In a shallow dish, combine flour, salt, and pepper.\n3. Dredge chicken in flour mixture, shaking off excess.\n4. In a large skillet, heat butter and olive oil over medium heat.\n5. Add chicken and cook for 4-5 minutes per side or until browned and cooked through.\n6. Remove chicken from skillet and set aside.\n7. Add mushrooms to skillet and cook until browned.\n8. Pour in Marsala wine and chicken broth and bring to a simmer.\n9. Add heavy cream and stir to combine.\n10. Return chicken to skillet and cook for an additional 2-3 minutes or until sauce has thickened.\n11. Garnish with chopped parsley."
+              },
+              {
+                "name": "Pesto Pasta",
+                "ingredients": [
+                  "1 pound linguine",
+                  "1/2 cup pesto",
+                  "1/4 cup grated Parmesan cheese",
+                  "1/4 teaspoon black pepper"
+                ],
+                "cooking_method": "1. Cook linguine according to package directions.\n2. Drain linguine and reserve 1/2 cup of pasta water.\n3. Return linguine to pot and add pesto and Parmesan cheese.\n4. Toss to coat, adding reserved pasta water as needed to loosen the sauce.\n5. Season with black pepper and serve."
+              }
+            ]
+          },
+    
+          {
+            "id": "04",
+            "name": "John Smith",
+            "image": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1683210733~exp=1683211333~hmac=8aac184f4375cb03ced3bd924abd3701bbfd90514030bb9296b7f243e33dfbad",
+            "experience": "20 years",
+            "num_recipes": 100,
+            "bio": "John Smith is an experienced chef with over 20 years in the culinary industry. He is known for his creative dishes that combine different cuisines and flavors.",
+            "recipes": [
+              {
+                "name": "Spicy Grilled Shrimp",
+                "ingredients": [
+                  "1 pound large shrimp, peeled and deveined",
+                  "2 tablespoons olive oil",
+                  "1 tablespoon minced garlic",
+                  "1 tablespoon chopped fresh parsley",
+                  "1/4 teaspoon red pepper flakes",
+                  "Salt and black pepper to taste"
+                ],
+                "cooking_method": "1. Preheat grill to medium-high heat.\n2. In a bowl, combine shrimp, olive oil, garlic, parsley, red pepper flakes, salt, and black pepper.\n3. Thread shrimp onto skewers and grill for 2-3 minutes per side or until cooked through."
+              },
+              {
+                "name": "Chicken Marsala",
+                "ingredients": [
+                  "4 boneless, skinless chicken breasts",
+                  "1/2 cup all-purpose flour",
+                  "1 teaspoon salt",
+                  "1/2 teaspoon black pepper",
+                  "4 tablespoons unsalted butter",
+                  "4 tablespoons olive oil",
+                  "8 ounces sliced mushrooms",
+                  "1/2 cup Marsala wine",
+                  "1/2 cup chicken broth",
+                  "1/4 cup heavy cream",
+                  "Chopped fresh parsley for garnish"
+                ],
+                "cooking_method": "1. Pound chicken breasts to an even thickness.\n2. In a shallow dish, combine flour, salt, and pepper.\n3. Dredge chicken in flour mixture, shaking off excess.\n4. In a large skillet, heat butter and olive oil over medium heat.\n5. Add chicken and cook for 4-5 minutes per side or until browned and cooked through.\n6. Remove chicken from skillet and set aside.\n7. Add mushrooms to skillet and cook until browned.\n8. Pour in Marsala wine and chicken broth and bring to a simmer.\n9. Add heavy cream and stir to combine.\n10. Return chicken to skillet and cook for an additional 2-3 minutes or until sauce has thickened.\n11. Garnish with chopped parsley."
+              },
+              {
+                "name": "Pesto Pasta",
+                "ingredients": [
+                  "1 pound linguine",
+                  "1/2 cup pesto",
+                  "1/4 cup grated Parmesan cheese",
+                  "1/4 teaspoon black pepper"
+                ],
+                "cooking_method": "1. Cook linguine according to package directions.\n2. Drain linguine and reserve 1/2 cup of pasta water.\n3. Return linguine to pot and add pesto and Parmesan cheese.\n4. Toss to coat, adding reserved pasta water as needed to loosen the sauce.\n5. Season with black pepper and serve."
+              }
+            ]
+          },
+    
+          {
+            "id": "05",
+            "name": "jonathan dev",
+            "image": "https://img.freepik.com/premium-photo/smiling-female-chef-with-cut-vegetables-kitchen_13339-42852.jpg?w=740",
+            "experience": "20 years",
+            "num_recipes": 100,
+            "bio": "John Smith is an experienced chef with over 20 years in the culinary industry. He is known for his creative dishes that combine different cuisines and flavors.",
+            "recipes": [
+              {
+                "name": "Spicy Grilled Shrimp",
+                "ingredients": [
+                  "1 pound large shrimp, peeled and deveined",
+                  "2 tablespoons olive oil",
+                  "1 tablespoon minced garlic",
+                  "1 tablespoon chopped fresh parsley",
+                  "1/4 teaspoon red pepper flakes",
+                  "Salt and black pepper to taste"
+                ],
+                "cooking_method": "1. Preheat grill to medium-high heat.\n2. In a bowl, combine shrimp, olive oil, garlic, parsley, red pepper flakes, salt, and black pepper.\n3. Thread shrimp onto skewers and grill for 2-3 minutes per side or until cooked through."
+              },
+              {
+                "name": "Chicken Marsala",
+                "ingredients": [
+                  "4 boneless, skinless chicken breasts",
+                  "1/2 cup all-purpose flour",
+                  "1 teaspoon salt",
+                  "1/2 teaspoon black pepper",
+                  "4 tablespoons unsalted butter",
+                  "4 tablespoons olive oil",
+                  "8 ounces sliced mushrooms",
+                  "1/2 cup Marsala wine",
+                  "1/2 cup chicken broth",
+                  "1/4 cup heavy cream",
+                  "Chopped fresh parsley for garnish"
+                ],
+                "cooking_method": "1. Pound chicken breasts to an even thickness.\n2. In a shallow dish, combine flour, salt, and pepper.\n3. Dredge chicken in flour mixture, shaking off excess.\n4. In a large skillet, heat butter and olive oil over medium heat.\n5. Add chicken and cook for 4-5 minutes per side or until browned and cooked through.\n6. Remove chicken from skillet and set aside.\n7. Add mushrooms to skillet and cook until browned.\n8. Pour in Marsala wine and chicken broth and bring to a simmer.\n9. Add heavy cream and stir to combine.\n10. Return chicken to skillet and cook for an additional 2-3 minutes or until sauce has thickened.\n11. Garnish with chopped parsley."
+              },
+              {
+                "name": "Pesto Pasta",
+                "ingredients": [
+                  "1 pound linguine",
+                  "1/2 cup pesto",
+                  "1/4 cup grated Parmesan cheese",
+                  "1/4 teaspoon black pepper"
+                ],
+                "cooking_method": "1. Cook linguine according to package directions.\n2. Drain linguine and reserve 1/2 cup of pasta water.\n3. Return linguine to pot and add pesto and Parmesan cheese.\n4. Toss to coat, adding reserved pasta water as needed to loosen the sauce.\n5. Season with black pepper and serve."
+              }
+            ]
+          },
+    
+          {
+            "id": "06",
+            "name": "Gordon Ramsay",
+            "image": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1683210523~exp=1683211123~hmac=0a792dd04bd1a91791199be4c71a98ad68089461b836e34170461e3ceeb1139c",
+            "experience": "20 years",
+            "num_recipes": 100,
+            "bio": "John Smith is an experienced chef with over 20 years in the culinary industry. He is known for his creative dishes that combine different cuisines and flavors.",
+            "recipes": [
+              {
+                "name": "Spicy Grilled Shrimp",
+                "ingredients": [
+                  "1 pound large shrimp, peeled and deveined",
+                  "2 tablespoons olive oil",
+                  "1 tablespoon minced garlic",
+                  "1 tablespoon chopped fresh parsley",
+                  "1/4 teaspoon red pepper flakes",
+                  "Salt and black pepper to taste"
+                ],
+                "cooking_method": "1. Preheat grill to medium-high heat.\n2. In a bowl, combine shrimp, olive oil, garlic, parsley, red pepper flakes, salt, and black pepper.\n3. Thread shrimp onto skewers and grill for 2-3 minutes per side or until cooked through."
+              },
+              {
+                "name": "Chicken Marsala",
+                "ingredients": [
+                  "4 boneless, skinless chicken breasts",
+                  "1/2 cup all-purpose flour",
+                  "1 teaspoon salt",
+                  "1/2 teaspoon black pepper",
+                  "4 tablespoons unsalted butter",
+                  "4 tablespoons olive oil",
+                  "8 ounces sliced mushrooms",
+                  "1/2 cup Marsala wine",
+                  "1/2 cup chicken broth",
+                  "1/4 cup heavy cream",
+                  "Chopped fresh parsley for garnish"
+                ],
+                "cooking_method": "1. Pound chicken breasts to an even thickness.\n2. In a shallow dish, combine flour, salt, and pepper.\n3. Dredge chicken in flour mixture, shaking off excess.\n4. In a large skillet, heat butter and olive oil over medium heat.\n5. Add chicken and cook for 4-5 minutes per side or until browned and cooked through.\n6. Remove chicken from skillet and set aside.\n7. Add mushrooms to skillet and cook until browned.\n8. Pour in Marsala wine and chicken broth and bring to a simmer.\n9. Add heavy cream and stir to combine.\n10. Return chicken to skillet and cook for an additional 2-3 minutes or until sauce has thickened.\n11. Garnish with chopped parsley."
+              },
+              {
+                "name": "Pesto Pasta",
+                "ingredients": [
+                  "1 pound linguine",
+                  "1/2 cup pesto",
+                  "1/4 cup grated Parmesan cheese",
+                  "1/4 teaspoon black pepper"
+                ],
+                "cooking_method": "1. Cook linguine according to package directions.\n2. Drain linguine and reserve 1/2 cup of pasta water.\n3. Return linguine to pot and add pesto and Parmesan cheese.\n4. Toss to coat, adding reserved pasta water as needed to loosen the sauce.\n5. Season with black pepper and serve."
+              }
+            ]
+          }           
+    ]
